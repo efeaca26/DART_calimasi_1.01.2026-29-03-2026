@@ -16,7 +16,7 @@ class _MyAppState extends State<MyApp> {
   TextEditingController controller_sif = TextEditingController();
   String mesaj = "";
   String ka = "admin";
-  String sifre = "admin1234";
+  String sifre = "admin123";
   bool flag = false;
   @override
   Widget build(BuildContext context) {
